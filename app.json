@@ -1,0 +1,7 @@
+{
+  "name": "KauBot",
+  "description": "🤖 Discord Music Bot built with discord.js",
+  "repository": "https://github.com/eritislami/evobot",
+  "logo": "https://imgur.com/a/zwvac2U",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
